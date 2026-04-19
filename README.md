@@ -1,1 +1,1 @@
-Code for report submission for COMP34212
+Code for COMP34212 assignment
